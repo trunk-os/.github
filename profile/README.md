@@ -4,6 +4,6 @@ Instructions for trying Trunk are [here](https://github.com/trunk-os/community/b
 
 More coming here! Be sure to [Follow Us on Bluesky](https://bsky.app/profile/trunk-os.bsky.social).
 
-**I COULD USE YOUR FINANCIAL SUPPORT.** Times are really hard right now and I'm on the verge of homelessness. If you like what you see here, throw me $20 if you can afford it.
+**I COULD USE YOUR FINANCIAL SUPPORT.** If you like what you see here, throw me $20 if you can afford it.
 
 <https://www.patreon.com/c/TrunkOS>
