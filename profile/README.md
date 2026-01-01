@@ -14,3 +14,5 @@ Goal: **$3,000 to cover December development costs and rent.** Right now, we're 
 <https://www.patreon.com/c/TrunkOS>
 
 More coming here! Be sure to [Follow Us on Bluesky](https://bsky.app/profile/trunk-os.bsky.social) for updates.
+
+**NOTE:** Development doesn't happen here, only community stuff. [Gitea](https://gitea.com/trunk) is where development occurs.
