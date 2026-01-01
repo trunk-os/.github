@@ -1,11 +1,16 @@
-Trunk is creating an operating system that runs in your closet and keeps your data there, and only there. We're starting by providing Cloud Storage and Compute, making it easy enough for anyone to run.
+Trunk is an operating system that runs on YOUR hardware, in YOUR home. Self-configuring cloud storage and compute that keeps your data exactly where it belongs—with you. No corporate servers. No AI surveillance. No compromises.
 
-There are a lot of novel features (package management, storage and network integration, easy installation)! Check out more about the project here: https://trunk-os.github.com
+And, because we want everyone to benefit from this, we're trying to make it as easy to use as possible for anyone. Two clicks to run a nginx, securely, exposed to the world on your home network.
 
-Instructions for trying Trunk are [here](https://github.com/trunk-os/community/blob/main/install-instructions.md). Please report issues to the [community repository](https://github.com/trunk-os/community/issues). Issues in other repositories may be ignored or closed indiscriminantly. The community funnel allows me to create tickets where they belong in the projects they belong in, while still addressing your issues.
+It's not quite ready yet -- but you can try it now. Installation instructions are [here](https://github.com/trunk-os/community/blob/main/install-instructions.md). Please report issues to the [community repository](https://github.com/trunk-os/community/issues).
 
-More coming here! Be sure to [Follow Us on Bluesky](https://bsky.app/profile/trunk-os.bsky.social).
+We need your help to keep building.
 
-**I COULD USE YOUR FINANCIAL SUPPORT.** If you like what you see here, throw me $20 if you can afford it.
+Goal: $2,500 to cover December development costs and rent. Right now, we're at a critical moment. Continued development depends on support from people who understand what's at stake.
+
+-   Can you chip in $20-$200 today? It helps us survive this month and keep coding.
+-   Even better: $10/month means we can plan ahead and accelerate development.
 
 <https://www.patreon.com/c/TrunkOS>
+
+More coming here! Be sure to [Follow Us on Bluesky](https://bsky.app/profile/trunk-os.bsky.social) for updates.
