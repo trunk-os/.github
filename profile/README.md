@@ -1,5 +1,7 @@
 Trunk is an operating system that runs on YOUR hardware, in YOUR home. Self-configuring cloud storage and compute that keeps your data exactly where it belongs—with you. No corporate servers. No AI surveillance. No compromises.
 
+Here's a quick overview of the [featureset](https://trunk-os.github.io).
+
 And, because we want everyone to benefit from this, we're trying to make it as easy to use as possible for anyone. Two clicks to run a nginx, securely, exposed to the world on your home network.
 
 It's not quite ready yet -- but you can try it now. Installation instructions are [here](https://github.com/trunk-os/community/blob/main/install-instructions.md). Please report issues to the [community repository](https://github.com/trunk-os/community/issues).
