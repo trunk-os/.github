@@ -8,7 +8,7 @@ It's not quite ready yet; but you can try it now. Installation instructions are 
 
 **We need your help to keep building.**
 
-Goal: **$3,000 to cover December development costs and rent.** Right now, we're at a critical moment. Continued development depends on support from people who understand what's at stake.
+Goal: **$3,000/mo to cover development costs and rent.** Right now, we're at a critical moment. Continued development depends on support from people who understand what's at stake.
 
 -   Can you chip in $20-$200 today? It helps us survive this month and keep coding.
 -   Even better: $10/month means we can plan ahead and accelerate development.
